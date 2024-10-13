@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "better-console": "*",
-    "del": "^2.2.0",
+    "del": "^8.0.0",
     "extend": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
